@@ -1,0 +1,77 @@
+###VOWELS###
+'AA' #low back unrounded
+'AE' #low front unrounded
+'AH' #schwa if unstressed, wedge if stressed?
+'AO' #open o, rounded back mid
+'AW' #'ow' dipthong
+'AY' #'eye' dipthong
+'EH' #epsilon
+'ER' #roticized schwa
+'EY' #eI
+'IH' #I
+'IY' #i
+'OW' #ou
+'OY' #'oi' dipthong
+'UH' #ʊ
+'UW' #u ['tub]
+'AR' #upside down A
+
+
+###CONSONANTS###
+#STOPS#
+'P' #p
+'B' #b
+'T' #t
+'D' #d
+'K' #k
+'G' #g
+
+#AFFRICATES#
+'CH' #alveo-palatal voiceless
+'JH' #alveo-palatal voiced (as in jamie)
+
+#FRICATIVES#
+'F' #f
+'V' #v
+'TH' #theta
+'DH' #thorn
+'S' #s
+'Z' #z
+'SH' #ʃ
+'ZH' #ʒ
+'HH' #h
+
+#NASALS#
+'M' #m
+'N' #n
+'NG' #ing
+
+#APPROXIMANTS#
+'L' #l
+'R' #central voiced approximant - upside down r
+
+#SEMIVOWELS#
+'YO' #j
+'W' #w
+
+#---------------NECESSARY FOR GERMAN ADDITIONS-------------#
+'CX' #voiceless palatal fricative ç
+'PF' #pf - labiodental fricative
+'RR' #uvular R
+'X' #x Voiceless velar fricative
+
+'A' #a
+'O' #o
+'OE' #oe - 'offnen'
+'YO' #y near-close near-front unrounded
+'YR' #rounded y
+
+#--------------NECESSARY FOR SPANISH ADDITIONS-------------#
+
+'NY' #palatal nasal
+'GH' #voiced velar fricative
+'LL' #palatal lateral aproximant
+'VF' #voiced bilabial fricative
+'AT' #alveolar tap
+'RT' #alveolar trill
+'E'
